@@ -1,0 +1,25 @@
+[33mcommit e91e50e35795881baed0cd5c2f35843020d50ee7[m
+Author: Софолов Александр <sashasofolov@gmail.com>
+Date:   Thu Oct 6 08:52:08 2022 +0300
+
+    Revert "update DayTime.pas"
+    
+    This reverts commit f56d45febade678c11b90630598aa61174ed477d.
+
+[33mcommit f56d45febade678c11b90630598aa61174ed477d[m
+Author: Софолов Александр <sashasofolov@gmail.com>
+Date:   Thu Oct 6 08:49:06 2022 +0300
+
+    update DayTime.pas
+
+[33mcommit e453eedb0453322173dcef3083f64cae83602210[m
+Author: Софолов Александр <sashasofolov@gmail.com>
+Date:   Thu Oct 6 08:44:38 2022 +0300
+
+    add .gitignore
+
+[33mcommit 9e039687d903bae77cdc855f683f89cf019d3963[m
+Author: Софолов Александр <sashasofolov@gmail.com>
+Date:   Thu Oct 6 08:34:16 2022 +0300
+
+    эдд риадми.мд
